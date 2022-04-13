@@ -1,0 +1,46 @@
+*{
+    text-decoration: none;
+    padding: 0%;
+    box-sizing: border-box;
+    margin: 0%;
+
+}
+
+.julius{
+    width: 100%;
+    padding: 30px 0;
+    background-color: aqua;
+    
+}
+.small{
+    max-width: 1080px;
+    padding: 0 75px;
+    margin:auto;
+    
+}
+
+.julius .small{
+    align-items: center;
+    justify-content: space-between;
+}
+
+.julius .list li{
+    list-style: none;
+    display: inline-block;
+}
+
+.julius .list li a{
+    margin-left: 50px;
+}
+
+.body{
+    background: url('./julius.jpg');
+    height: 100vh;
+    background-size: cover;
+    min-height: 500px;
+}
+
+.width{
+    color: white;
+    font-size: 50px;
+}

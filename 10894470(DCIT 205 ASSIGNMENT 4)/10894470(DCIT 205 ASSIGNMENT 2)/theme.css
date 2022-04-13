@@ -1,0 +1,70 @@
+#flinch_1{
+    font-family: cursive;
+    padding: 50px;
+    color: rgb(37,90,18);
+    @media screen and (min-width: 450px) (max: width 1767px);        
+    }
+    #flinch_1 a:hover{
+        background: yellowgreen;
+    }
+    #flinch_1 a:active{
+        background: rgb(37,90,18);
+    }
+    #flinch_1 a:visited{
+        background: blue;
+    }
+    #flinch_2{
+        color: white;
+        background-image: url("download\ \(1\).jpg");
+        background-repeat: no-repeat;
+        height: 100%;
+        background-position: center;
+        background-size: cover;
+        text-transform: uppercase;
+        font-family: serif;
+        font-weight: bold;
+    }
+    #flinch_3{
+        font-family: sans-serif;
+        text-shadow: 2px 2px rgb(216,254,0,0.723);
+    }
+    #flinch_4{
+        background-image: url("biggy.jpeg");
+         margin:0px 50px 0px 50px;
+    }
+    .flinch_5{
+        text-align: center;
+        font-family: fantasy;
+        text-shadow: rgb(231,128,0,0.723) 2px 2px;
+    }
+    .flinch_6{
+        font-family: cursive;
+        font-family: 20px;
+    }
+    .flinch_7{
+        background-color: rgb(112,209,209,0.205);
+        background-attachment: fixed;
+        @media screen and (min-width: 450px) (max: width 1767px;)
+    }
+    #flinch_8{
+        padding: 50px;
+        background-image: url("images.jpg");
+        height: 100%;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        border-style: groove;
+        padding: 50px 50px 50px 50px;
+        font-family: cursive;
+        @media screen and (min-width:450px) (max: width 1767px);
+    }
+    #flinch_9{
+        background-image: url("julius.jpg");
+        margin:0px 50px 0px 50px;
+        font-family: sans-serif;
+        text-shadow: rgba(131, 0, 254, 0.723)
+    }
+
+
+
